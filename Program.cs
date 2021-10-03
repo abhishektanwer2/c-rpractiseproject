@@ -11,7 +11,7 @@ namespace c_Projects
             List<int> list = new();
             list.Add(1);
             list.Add(23);
-
+            list.Add(35);
             foreach (var item in list)
             {
                 Console.WriteLine(item);
