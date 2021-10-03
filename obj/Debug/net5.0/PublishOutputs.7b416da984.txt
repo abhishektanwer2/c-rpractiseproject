@@ -1,0 +1,4 @@
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/publish/c#Projects.dll
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/publish/c#Projects.deps.json
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/publish/c#Projects.runtimeconfig.json
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/publish/c#Projects.pdb

@@ -1,0 +1,15 @@
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/c#Projects.deps.json
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/c#Projects.runtimeconfig.json
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/c#Projects.runtimeconfig.dev.json
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/c#Projects.dll
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/ref/c#Projects.dll
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/bin/Debug/net5.0/c#Projects.pdb
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.csprojAssemblyReference.cache
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.AssemblyInfoInputs.cache
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.AssemblyInfo.cs
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.csproj.CoreCompileInputs.cache
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.dll
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/ref/c#Projects.dll
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.pdb
+/Users/abhishektanwer/Google Drive/Abhi/Projects/c#Projects/obj/Debug/net5.0/c#Projects.genruntimeconfig.cache
