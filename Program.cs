@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
 
 namespace c_Projects
 {
@@ -10,13 +12,15 @@ namespace c_Projects
             Console.WriteLine("Hello World ");
             List<int> list = new();
             list.Add(1);
-            list.Add(23);
-            list.Add(35);
+            list.Add(1);
+            list.Add(1);
             foreach (var item in list)
             {
                 Console.WriteLine(item);
 
             }
+
+            Console.WriteLine(list.All(s => s.GetType() == typeof(int)));
 
 
         }
